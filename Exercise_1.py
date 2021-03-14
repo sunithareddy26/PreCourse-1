@@ -1,6 +1,6 @@
 class myStack:
      def __init__(self):
-         
+         self.list = []         
      def isEmpty(self):
          
      def push(self, item):
